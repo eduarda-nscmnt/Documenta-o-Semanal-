@@ -7,4 +7,6 @@ Aula 2: Sintaxe do Html e JavaScript, variáveis, operadores (+,-,/,*...), armaz
 Aula 3: Fizemos uma calculadora de média aritmética com base nas aulas anteriores.
 
 Explicação Técnica:
-Aprendemos a usar
+Aprendemos a usar Let e Const, alguns operadores (+,/)  como funciona a matemática do computador, por exemplo para a calculadora fr média, para que o computador entenda que é necessário somar primeiro e só depois dividir, temos que deixar a soma entre ().
+
+
