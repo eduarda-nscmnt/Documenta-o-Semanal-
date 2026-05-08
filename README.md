@@ -12,4 +12,6 @@ Aula 3: Fizemos uma calculadora de média aritmética com base nas aulas anterio
 Explicação Técnica:
 Aprendemos a usar Let e Const, alguns operadores (+,/)  como funciona a matemática do computador, por exemplo para a calculadora fr média, para que o computador entenda que é necessário somar primeiro e só depois dividir, temos que deixar a soma entre ().
 
+Reflexão Final:
+Entender como usar cada variável e usar minha própria técnica, mas prestando atenção eu consegui concluir.
 
